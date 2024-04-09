@@ -1,0 +1,41 @@
+aws cloudformation create-stack \
+  --region ap-south-1 \
+  --stack-name my-eks-zen-task \
+  --template-url https://s3.us-west-2.amazonaws.com/amazon-eks/cloudformation/2020-10-29/amazon-eks-vpc-private-subnets.yaml
+
+
+
+
+
+aws eks update-kubeconfig --name test-zen-task
+kubectl apply -f nginx-task.yaml
+eksctl delete cluster --name test-zen-task-1
+ aws configure
+
+minikube stop
+minikube delete
+sudo apt-get remove kubectl
+
+aws eks update-kubeconfig --name test-zen-task
+
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:latest
+        ports:
+        - containerPort: 80
+

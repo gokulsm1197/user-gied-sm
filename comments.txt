@@ -1,0 +1,1000 @@
+  495  cd ..
+  496  ls
+  497  npm start
+  498  cd task-zen
+  499  ls
+  500  cd ..
+  501  cd sivathamil
+  502  ls
+  503  cd devops-build-task
+  504  ls
+  505  cd build
+  506  ls
+  507  npm start
+  508  npm init -y
+  509  ls
+  510  cd devops-build-task
+  511  ls
+  512  cd build
+  513  ls
+  514  git add
+  515  npm start
+  516  nvm install 20.5.0
+  517  nvm use 20.5.0
+  518  npm install -g npm@7.24.0
+  519  npm start
+  520  ls
+  521  git add
+  522  cd ..
+  523  ls
+  524  mkdir test
+  525  ls
+  526  cd test
+  527  npm start
+  528  nvm install 20.5.0
+  529  nvm use 20.5.0
+  530  npm install -g npm@7.24.0
+  531  npm start
+  532  npm init
+  533  npm start
+  534  npm ERR! Missing script: "start"
+  535  npm ERR!
+  536  npm ERR! Did you mean one of these?
+  537  npm ERR!     npm star # Mark your favorite packages
+  538  npm ERR!     npm stars # View packages marked as favorites
+  539  npm ERR!
+  540  npm ERR! To see a list of scripts, run:
+  541  npm ERR!   npm run
+  542  npm ERR! A complete log of this run can be found in:
+  543  ls
+  544  cd ..
+  545  ls
+  546  rm -rf devops-build-task
+  547  rm -rf test
+  548  ls
+  549  git clone https://github.com/gokulsm1197/devops-build-task.git
+  550  ls
+  551  cd devops-build-task
+  552  ls
+  553  cd build
+  554  ls
+  555  npm init
+  556  npm start
+  557  npm run
+  558  ls
+  559  cat package.json
+  560  vi package.json
+  561  npm run
+  562  npm start
+  563  ls
+  564  rm -rf node_modules
+  565  npm install
+  566  npm start
+  567  ls
+  568  cat package.json
+  569  nvm install <desired_version>
+  570  nvm install desired_version
+  571  npm init
+  572  npm start
+  573  npm install
+  574  npm start
+  575  npm start
+  576  nvm install 18.17.0
+  577  nvm use 18.17.0
+  578  npm install -g npm@6.14.14
+  579  npm start
+  580  ls
+  581  cd devops-build-task
+  582  ls
+  583  cd build
+  584  ls
+  585  npm init
+  586  npm install
+  587  npm start
+  588  ls
+  589  cd ..
+  590  npm start
+  591  ls
+  592  cd build
+  593  ls
+  594  npm start
+  595  git init
+  596  git add
+  597  git config
+  598  git init
+  599  git add
+  600  git commit
+  601  git add
+  602  git commit
+  603  git add
+  604  ls
+  605  rm -rf devops-build-task
+  606  ls
+  607  git clone https://github.com/gokulsm1197/devops-build-task.git
+  608  ls
+  609  cd devops-build-task
+  610  ls
+  611  cd build
+  612  ls
+  613  git init
+  614  git config --global init.defaultBranch main
+  615  git branch -m main
+  616  git init
+  617  npm install
+  618  nvm install 20.5.0
+  619  nvm use 20.5.0
+  620  npm install -g npm@latest
+  621  your-original-command
+  622  npm install
+  623  git init
+  624  npm init
+  625  npm start
+  626  ls
+  627  vi package.json
+  628  npm start
+  629  ls
+  630  cat package.json
+  631  ls
+  632  npm start
+  633  npm install
+  634  npm start
+  635  ls
+  636  cat task_zen_entry.js
+  637  chmod +x task_zen_entry.js
+  638  ./task_zen_entry.js
+  639  npm start
+  640  sudo ./task_zen_entry.js
+  641  npm start
+  642  cat task_zen_entry.js
+  643  ./task_zen_entry.js
+  644  npm start
+  645  sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  646  npm start
+  647  ls
+  648  pwd
+  649  chmod +x task_zen_entry.js
+  650  node -v
+  651  npm start
+  652  ls
+  653  cat task_zen_entry.js
+  654  pwd
+  655  cat package.json
+  656  npm start
+  657  cat package.json
+  658  npm start
+  659  sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  660  npm start
+  661  ls
+  662  cat task_zen_entry.js
+  663  npm start
+  664  npm install express
+  665  node index.js
+  666  cd ..
+  667  home
+  668  ls
+  669  makdir aws
+  670  mkdir aws
+  671  cd aws
+  672  ls
+  673  vi testsm.pem
+  674  chmod 400 "testsm.pem"
+  675  ec2-54-227-57-213.compute-1.amazonaws.com
+  676  ssh -i "testsm.pem" ubuntu@ec2-54-227-57-213.compute-1.amazonaws.com
+  677  cd aws
+  678  ssh -i "testsm.pem" ubuntu@ec2-54-227-57-213.compute-1.amazonaws.com
+  679  ls
+  680  cd devops-build-task
+  681  ls
+  682  cd build
+  683  ls
+  684  vi task_zen_entry.js
+  685  ls
+  686  vi task_zen_entry.js
+  687  ls
+  688  npm start
+  689  npm install
+  690  npm start
+  691  npm install
+  692  npm install -g npm@latest
+  693  nvm install 20.5.0
+  694  nvm use 20.5.0
+  695  npm start
+  696  npm init
+  697  npm start
+  698  npm install
+  699  node -v
+  700  nvm use Node.js v20.5.0
+  701  npm install
+  702  npm install -g npm
+  703  npm run build
+  704  ls
+  705  cd  devops-build-task
+  706  ls
+  707  cd build
+  708  ls
+  709  cat package.json
+  710  cat task_zen_entry.js
+  711  npm start
+  712  nvm install 14
+  713  nvm use 14
+  714  npm install -g npm
+  715  npm start
+  716  npm install -g npm
+  717  nvm install 10.24.1
+  718  nvm use 10.24.1
+  719  npm install -g npm@latest-7
+  720  npm start
+  721  sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8080
+  722  npm start
+  723  ls
+  724  sudo node task_zen_entry.js
+  725  sudo iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 3000
+  726  sudo lsof -i :80
+  727  netstat -an | find "80"
+  728  sudo apt install net-tools
+  729  sudo lsof -i :80
+  730  netstat -an | find "80"
+  731  npm start
+  732  pwd
+  733  ls
+  734  sudo lsof -i :80
+  735  sudo setcap 'cap_net_bind_service=+ep' /home/sivathamil/devops-build-task/build/task_zen_entry.js
+  736  sudo node task_zen_entry.js
+  737  npm start
+  738  sudo lsof -i :80
+  739  npm start
+  740  cd ..
+  741  ls
+  742  cd ..
+  743  rm -rf devops-build-task
+  744  ls
+  745  git clone https://github.com/gokulsm1197/devops-build-task.git
+  746  ls
+  747  cd devops-build-task
+  748  ls
+  749  cd build
+  750  ls
+  751  npm run build
+  752  npx create-react-app task-zen-app
+  753  nvm install 14
+  754  nvm use 14
+  755  nvm alias default 14
+  756  node -v
+  757  npm -v
+  758  npx create-react-app task-zen-app
+  759  npm install -g npm@latest
+  760  npm install -g npm@^7.0.0
+  761  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  762  nvm install --lts
+  763  nvm use --lts
+  764  npm install -g npm@latest
+  765  node -v
+  766  npm -v
+  767  npx create-react-app task-zen-app
+  768  ls
+  769  cd task-zen-app
+  770  ls
+  771  npm start
+  772  ls
+  773  git clone https://github.com/gokulsm1197/devops-build-task.git
+  774  ls
+  775  cd devops-build-task
+  776  ls
+  777  cd build
+  778  ls
+  779  npm start
+  780  nvm install --lts
+  781  nvm use --lts
+  782  npm install -g npm@latest
+  783  npm start
+  784  cd /home/sivathamil/devops-build-task/build/src
+  785  ls index.js
+  786  rm -rf node_modules
+  787  npm install
+  788  npm start
+  789  npm init
+  790  cd ..
+  791  cd build
+  792  npm init
+  793  npm init -y
+  794  npm install
+  795  npm start
+  796  nano webpack.config.js
+  797  npm run build
+  798  npm start
+  799  npm run build
+  800  npm install
+  801  npm init -y
+  802  npm install
+  803  npm run build
+  804  npm run
+  805  npm run build
+  806  cd ..
+  807  ls
+  808  rm -rf devops-build-task
+  809  ls
+  810  git clone https://github.com/gokulsm1197/devops-build-task.git
+  811  npm install
+  812  cd gfg-demo
+  813  npm i
+  814  ​npm install --legacy-peer-deps
+  815  ​sudo npm install --legacy-peer-deps
+  816  ls
+  817  rm -f package-lock.json
+  818  ls
+  819  cd devops-build-task
+  820  npm install
+  821  vi package.json
+  822  npm install
+  823  cd ..
+  824  ls
+  825  cd ..
+  826  ls
+  827  git clone https://github.com/gokulsm1197/devops-build-task.git
+  828  ls
+  829  cd devops-build-task
+  830  ls
+  831  cd build
+  832  ls
+  833  vi package.json
+  834  npm install
+  835  npm run build
+  836  npm install -g npm@latest
+  837  npm run build
+  838  npm install -g npm@latest
+  839  npm install
+  840  npm install -g npm@6.14.11
+  841  npm install -g npm@latest
+  842  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  843  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+  844  nvm install node
+  845  npm install
+  846  ls
+  847  cat package.json
+  848  vi package.json
+  849  npm install
+  850  npm run build
+  851  npm init
+  852  npm run build
+  853  ls
+  854  cat  package.json
+  855  vi  package.json
+  856  npm run build
+  857  vi  package.json
+  858  npm run build
+  859  cd
+  860  ls
+  861  rm -rf devops-build-task
+  862  ls
+  863  mkdir project-zen
+  864  ls
+  865  cd project-zen
+  866  ls
+  867  vi zen-project.pem
+  868  ssh -i "zen-project.pem" ubuntu@ec2-44-204-59-82.compute-1.amazonaws.com
+  869  chmod 400 "zen-project.pem"
+  870  ssh -i "zen-project.pem" ubuntu@ec2-44-204-59-82.compute-1.amazonaws.com
+  871  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  872  chmod 400 "zen-project.pem"
+  873  ls
+  874  cd project-zen
+  875  ssh -i "zen-project.pem" ubuntu@ec2-44-204-59-82.compute-1.amazonaws.com
+  876  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  877  ls
+  878  cd project-zen
+  879  ls
+  880  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  881  ls
+  882  cd project-zen
+  883  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  884  ls
+  885  cd project-zen
+  886  ls
+  887  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  888  ls
+  889  cd project-zen
+  890  sudo chmod 666 /var/run/docker.sock
+  891  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  892  ls
+  893  cd project-zen
+  894  ls
+  895  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  896  ls
+  897  ssh -i "zen-project.pem" ubuntu@ec2-52-87-239-166.compute-1.amazonaws.com
+  898  docker --version
+  899  git clone https://github.com/gokulsm1197/devops-project.git
+  900  ls
+  901  cd project-zen
+  902  ls
+  903  cd devops-project
+  904  sudo cd devops-project
+  905  ls
+  906  cd
+  907  cd ..
+  908  cd
+  909  ls
+  910  cd devops-project
+  911  ls
+  912  cat dockerfile
+  913  cat Dockerfile
+  914  vi Dockerfile
+  915  docker build -t my-nginx-app .
+  916  docker run -p 8080:80 my-nginx-app
+  917  vi Dockerfile
+  918  ls
+  919  vi Dockerfile
+  920  docker build -t my-nginx-app .
+  921  docker run -p 8080:80 my-nginx-app
+  922  ls
+  923  cd build
+  924  ls
+  925  cd ..
+  926  cd
+  927  ls
+  928  cd devops-project
+  929  ls
+  930  cd build
+  931  cd
+  932  ls
+  933  cd devops-project
+  934  ls
+  935  vi Dockerfile
+  936  docker build -t my-nginx-app .
+  937  vi Dockerfile
+  938  docker build -t my-nginx-app .
+  939  docker run -p 8080:80 my-nginx-app
+  940  docker ps
+  941  docker ps -a
+  942  docker rm 2ab0c95e640b
+  943  docker rm a24541abb02f
+  944  docker rm 559aa1824e6e
+  945  docker rm 7df291848352
+  946  docker rm 08e28acfbed2
+  947  doker images
+  948  dockerimages
+  949  docker images
+  950  docker rmi my-nginx-app
+  951  docker rmi 7abe5814af89
+  952  docker rmi gcr.io/k8s-minikube/kicbase
+  953  docker rmi dbc648475405
+  954  docker rmi hello-world
+  955  doker images
+  956  docker images
+  957  docker build -t my-nginx-app .
+  958  docker run -d -p 8080:80 my-nginx-app
+  959  docker ps
+  960  ls
+  961  cd project-zen
+  962  ls
+  963  ssh -i "zen-project.pem" ubuntu@ec2-3-92-21-181.compute-1.amazonaws.com
+  964  ls
+  965  cd project-zen
+  966  ls
+  967  ssh -i "zen-project.pem" ubuntu@ec2-3-88-200-6.compute-1.amazonaws.com
+  968  ls
+  969  cd project-zen
+  970  ls
+  971  cd devops-project
+  972  cd ..
+  973  cd devops-project
+  974  ls
+  975  cat Dockerfile
+  976  ls
+  977  cd project-zen
+  978  ssh -i "zen-project.pem" ubuntu@ec2-3-88-200-6.compute-1.amazonaws.com
+  979  echo "# project-zen" >> README.md
+  980  git init
+  981  git clone https://github.com/gokulsm05/project-zen.git
+  982  ls
+  983  cd project-zen
+  984  ls
+  985  cd ..
+  986  rm -r project-zen
+  987  ls
+  988  git clone https://github.com/gokulsm05/project-zen.git
+  989  git init
+  990  git add README.md
+  991  git commit -m "first commit"
+  992  git branch -M main
+  993  git remote add origin https://github.com/gokulsm05/project-zen.git
+  994  git push -u origin main
+  995  git init
+  996  git branch -M main
+  997  git push -u origin main
+  998  git clone https://github.com/gokulsm05/project-zen.git
+  999  git push
+ 1000  ls
+ 1001  cd devops-project
+ 1002  ls
+ 1003  cd project-zen
+ 1004  cd ..
+ 1005  cd project-zen
+ 1006  ls
+ 1007  cd ..
+ 1008  mkdir project-zen-sm
+ 1009  ls
+ 1010  cd project-zen-sm
+ 1011  vi project-zen-sm
+ 1012  ls
+ 1013  vi project-zen-sm.pem
+ 1014  ssh -i "project-zen-sm.pem" ubuntu@ec2-52-44-212-179.compute-1.amazonaws.com
+ 1015  chmod 400 "project-zen-sm.pem"
+ 1016  ssh -i "project-zen-sm.pem" ubuntu@ec2-52-44-212-179.compute-1.amazonaws.com
+ 1017  ls
+ 1018  cd project-zen-sm
+ 1019  ssh -i "project-zen-sm.pem" ubuntu@ec2-52-44-212-179.compute-1.amazonaws.com
+ 1020  ls
+ 1021  cd project-zen  project-zen-sm
+ 1022  cd project-zen-sm
+ 1023  ls
+ 1024  ssh -i "project-zen-sm.pem" ubuntu@ec2-52-44-212-179.compute-1.amazonaws.com
+ 1025  ls
+ 1026  cd project-zen-sm
+ 1027  ssh -i "project-zen-sm.pem" ubuntu@ec2-52-44-212-179.compute-1.amazonaws.com
+ 1028  docker pull gokulsm/dev
+ 1029  docker ps
+ 1030  docker pull gokulsm/dev
+ 1031  docker pull gokulsm/dev:7
+ 1032  docker ps
+ 1033  docker images
+ 1034  docker pull gokulsm/dev
+ 1035  ls
+ 1036  mkdir main-projet
+ 1037  vi main-project.pem
+ 1038  ls
+ 1039  cd main-projet
+ 1040  chmod 400 "main-project.pem"
+ 1041  ssh -i "main-project.pem" ubuntu@ec2-3-81-102-85.compute-1.amazonaws.com
+ 1042  ls
+ 1043  chmod 400 "main-project.pem"
+ 1044  ssh -i "main-project.pem" ubuntu@ec2-3-81-102-85.compute-1.amazonaws.com
+ 1045  cd ..
+ 1046  ls
+ 1047  rm -r aws  main-project.pem main-projet project-zen
+ 1048  ls
+ 1049  rm -r project-zen-sm
+ 1050  ls
+ 1051  mkdir main-project
+ 1052  cd main-project
+ 1053  vi main-project.pem
+ 1054  chmod 400 "main-project.pem"
+ 1055  ssh -i "main-project.pem" ubuntu@ec2-3-81-102-85.compute-1.amazonaws.com
+ 1056  ls
+ 1057  cd main-project
+ 1058  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1059  ls
+ 1060  cd  main-project
+ 1061  ls
+ 1062  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1063  ls
+ 1064  cd main-project
+ 1065  ls
+ 1066  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1067  ls
+ 1068  mkdir project
+ 1069  ls
+ 1070  cd project
+ 1071  vi project.pem
+ 1072  chmod 400 "project.pem"
+ 1073  ssh -i "project.pem" ubuntu@ec2-3-208-41-74.compute-1.amazonaws.com
+ 1074  ls
+ 1075  cd main-project
+ 1076  la
+ 1077  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1078  ls
+ 1079  cd  main-project
+ 1080  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1081  ls
+ 1082  cd main-project
+ 1083  ssh -i "main-project.pem" ubuntu@ec2-34-226-62-225.compute-1.amazonaws.com
+ 1084  mkdir project-server
+ 1085  ls
+ 1086  cd project-server
+ 1087  ls
+ 1088  vi project-server.pem
+ 1089  chmod 400 "project-server.pem"
+ 1090  ssh -i "project-server.pem" ubuntu@ec2-52-71-251-90.compute-1.amazonaws.com
+ 1091  ls
+ 1092  cd  project-server
+ 1093  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1094  ls
+ 1095  cd project-server
+ 1096  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1097  ls
+ 1098  cd project-server
+ 1099  ls
+ 1100  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1101  ls
+ 1102  cd project-server
+ 1103  ls
+ 1104  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1105  doker ps
+ 1106  docker ps
+ 1107  docker pull gokulsm/dev
+ 1108  docker images
+ 1109  docker rmi -f $(docker images -a -q)
+ 1110  docker images
+ 1111  docker ps
+ 1112  docker pull gokulsm/dev
+ 1113  docker images
+ 1114  docker run -d -p 8081:80
+ 1115  docker run -d -p 8081:80 - name project latest
+ 1116  docker build - sss:1
+ 1117  docker build -t latest
+ 1118  docker build -t latest:s1
+ 1119  docker rm -f $(docker ps -a -q)
+ 1120  docker rmi -f $(docker images -a -q)
+ 1121  docker images
+ 1122  docker ps
+ 1123  docker pull gokulsm/dev
+ 1124  docker images
+ 1125  docker run -it gokulsm/dev
+ 1126  docker rmi -f $(docker images -a -q)
+ 1127  docker rm -f $(docker ps -a -q)
+ 1128  docker pull gokulsm/dev
+ 1129  docker run -it gokulsm/dev
+ 1130  docker rmi -f $(docker images -a -q)
+ 1131  docker rm -f $(docker ps -a -q)
+ 1132  docker images
+ 1133  docker pull gokulsm/dev
+ 1134  docker images
+ 1135  docker run -d -p 8081:80 --name test1 gokulsm/dev
+ 1136  docker rm -f $(docker ps -a -q)
+ 1137  docker rmi -f $(docker images -a -q)
+ 1138  ls
+ 1139  cd project-server
+ 1140  ls
+ 1141  ssh -i "project-server.pem" ubuntu@ec2-54-156-223-61.compute-1.amazonaws.com
+ 1142  ls
+ 1143  cd project-server
+ 1144  ls
+ 1145  ssh -i "project-server.pem" ubuntu@ec2-54-156-223-61.compute-1.amazonaws.com
+ 1146  cd ..
+ 1147  ls
+ 1148  cd project-server
+ 1149  ssh -i "project-server.pem" ubuntu@ec2-54-156-223-61.compute-1.amazonaws.com
+ 1150  ls
+ 1151  mkdir production-server
+ 1152  cd production-server
+ 1153  ls
+ 1154  vi production.pem
+ 1155  chmod 400 "production.pem"
+ 1156  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1157  ls
+ 1158  cd production-server
+ 1159  ls
+ 1160  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1161  ls
+ 1162  cd  production-server
+ 1163  ls
+ 1164  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1165  ls
+ 1166  cd production-server
+ 1167  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1168  docker ps -a
+ 1169  docker pull gokulsm/dev
+ 1170  docker images
+ 1171  docker run -d -p 8081:80 --name gokulsm/dev
+ 1172  docker run -d -p 8081:80 --name gokulsm/dev  latest
+ 1173  docker run -d -p 8081:80 --name gokulsm  latest
+ 1174  docker run -d -p 8081:80 - name project latest
+ 1175  docker rmi -f $(docker images -a -q)
+ 1176  docker stop $(docker ps -aq)
+ 1177  docker rm $(docker ps -aq)
+ 1178  docker rmi $(docker images -q)
+ 1179  docker pull gokulsm/dev
+ 1180  docker run -d -it -p 8080:80 gokulsm/dev
+ 1181  docker pull gokulsm/dev
+ 1182  docker ps
+ 1183  docker run -d -it -p 8080:80 gokulsm/dev
+ 1184  docker system prune -af --volumes && docker rmi -f $(docker images -q)
+ 1185  docker ps
+ 1186  docker system prune -af --volumes && docker rmi -f $(docker images -q)
+ 1187  docker ps
+ 1188  docker stop $(docker ps -aq)
+ 1189  docker rmi -f $(docker images -a -q)
+ 1190  docker rm $(docker ps -aq)
+ 1191  docker ps
+ 1192  ls
+ 1193  cd production-server
+ 1194  ls
+ 1195  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1196  docker pull gokulsm/prod
+ 1197  docker pull gokulsm/main
+ 1198  docker pull gokulsm/prod
+ 1199  docker pull gokulsm/main
+ 1200  ls
+ 1201  cd production-server
+ 1202  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1203  ls
+ 1204  cd production-server
+ 1205  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1206  ls
+ 1207  cd  production-server
+ 1208  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1209  ls
+ 1210  cd production-server
+ 1211  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1212  ls
+ 1213  cd production-server
+ 1214  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1215  ls
+ 1216  cd project-server
+ 1217  cd /usr/local/bin
+ 1218  pwd
+ 1219  ls
+ 1220  cd
+ 1221  ls
+ 1222  cd project-server
+ 1223  ls
+ 1224  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1225  ls
+ 1226  cd project-server
+ 1227  ls
+ 1228  ssh -i "project-server.pem" ubuntu@ec2-3-214-210-231.compute-1.amazonaws.com
+ 1229  ls
+ 1230  cd production-server
+ 1231  ls
+ 1232  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1233  ls
+ 1234  cd production-server
+ 1235  ls
+ 1236  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1237  ls
+ 1238  cd production-server
+ 1239  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1240  ls
+ 1241  cd production-server
+ 1242  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1243  ls
+ 1244  cd production-server
+ 1245  ls
+ 1246  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1247  ls
+ 1248  cd production-server
+ 1249  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1250  ls
+ 1251  cd production-server
+ 1252  ls
+ 1253  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1254  ls
+ 1255  cd production-server
+ 1256  ls
+ 1257  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1258  ls
+ 1259  cd production-server
+ 1260  ls
+ 1261  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1262  ls
+ 1263  cd production-server
+ 1264  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1265  ls
+ 1266  cd production-server
+ 1267  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1268  ls
+ 1269  cd production-server
+ 1270  ls
+ 1271  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1272  ls
+ 1273  cd production-server
+ 1274  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1275  ls
+ 1276  cd production-server
+ 1277  ls
+ 1278  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1279  ls
+ 1280  cd production-server
+ 1281  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1282  ls
+ 1283  cd production-server
+ 1284  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1285  ls
+ 1286  cd production-server
+ 1287  ls
+ 1288  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1289  ls
+ 1290  cd production-server
+ 1291  ls
+ 1292  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1293  ls
+ 1294  cd  production-server
+ 1295  ls
+ 1296  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1297  cd
+ 1298  ls
+ 1299  cd production-server
+ 1300  ssh -i "production.pem" ubuntu@ec2-52-22-19-194.compute-1.amazonaws.com
+ 1301  ls
+ 1302  mkdir git
+ 1303  cd git
+ 1304  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1305  ls
+ 1306  cd tarraform-eks
+ 1307  ls
+ 1308  terraform fmt
+ 1309  terraform init
+ 1310  cd ..
+ 1311  ls
+ 1312  cd tarraform-eks
+ 1313  ls
+ 1314  cat  backend.tf
+ 1315  cd ..
+ 1316  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1317  cd ..
+ 1318  ls
+ 1319  cd  git
+ 1320  ls
+ 1321  rm -r tarraform-eks
+ 1322  ls
+ 1323  rm -r tarraform-eks
+ 1324  ls
+ 1325  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1326  ls
+ 1327  cd tarraform-eks
+ 1328  cat backend.tf
+ 1329  terraform fmt
+ 1330  terraform init
+ 1331  aws configure
+ 1332  terraform init
+ 1333  terraform validate
+ 1334  terraform plan
+ 1335  cd ..
+ 1336  rm -r tarraform-eks
+ 1337  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1338  terraform init
+ 1339  terraform plan
+ 1340  terraform validate
+ 1341  terraform plan
+ 1342  ls
+ 1343  cd tarraform-eks
+ 1344  terraform validate
+ 1345  terraform init
+ 1346  terraform validate
+ 1347  terraform plan
+ 1348  cd ..
+ 1349  rm -r tarraform-eks
+ 1350  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1351  ls
+ 1352  cd tarraform-eks
+ 1353  ls
+ 1354  terraform init
+ 1355  terraform validate
+ 1356  terraform plan
+ 1357  tarraform apply --auto-approl
+ 1358  tarraform apply --auto-approve
+ 1359  terraform apply --auto-approve
+ 1360  cd ..
+ 1361  rm -r tarraform-eks
+ 1362  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1363  ls
+ 1364  cd tarraform-eks
+ 1365  terraform init
+ 1366  terraform plan
+ 1367  terraform apply --auto-approve
+ 1368  cd ..
+ 1369  rm -r tarraform-eks
+ 1370  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1371  terraform init
+ 1372  ls
+ 1373  cd tarraform-eks
+ 1374  terraform init
+ 1375  terraform plan
+ 1376  terraform apply --auto-approve
+ 1377  cd ..
+ 1378  rm -r tarraform-eks
+ 1379  y
+ 1380  ls
+ 1381  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1382  ls
+ 1383  cd tarraform-eks
+ 1384  terraform init
+ 1385  terraform plan
+ 1386  terraform apply --auto-approve
+ 1387  cd ..
+ 1388  cd tarraform-eks
+ 1389  cd ..
+ 1390  rm -r tarraform-eks
+ 1391  ls
+ 1392  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1393  ls
+ 1394  cd tarraform-eks
+ 1395  ls
+ 1396  terraform init
+ 1397  terraform plan
+ 1398  terraform apply --auto-approve
+ 1399  terraform destroy --auto-approve
+ 1400  ls
+ 1401  terraform apply --auto-approve
+ 1402  ls
+ 1403  cd ..
+ 1404  ls
+ 1405  rm -r tarraform-eks
+ 1406  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1407  ls
+ 1408  cd tarraform-eks
+ 1409  ls
+ 1410  terraform init
+ 1411  terraform plan
+ 1412  ls
+ 1413  cd jenkins-server
+ 1414  ls
+ 1415  terraform init
+ 1416  terraform plan
+ 1417  terraform apply --auto-approve
+ 1418  docker ps
+ 1419  terraform destroy --auto-approve
+ 1420  ls
+ 1421  terraform init
+ 1422  terraform plan
+ 1423  terraform apply --auto-approve
+ 1424  cd ..
+ 1425  kubectl
+ 1426  kubectl create secret docker-registry
+ 1427  kubectl create secret docker-registry my-registry-secret --docker-server=docker.io --docker-username=gokulsm --docker-password=sivathamil1197
+ 1428  kubectl cluster-info
+ 1429  terraform destroy --auto-approve
+ 1430  ls
+ 1431  terraform destroy --auto-approve
+ 1432  ls
+ 1433  cd ..
+ 1434  ls
+ 1435  cd sivathamil
+ 1436  ls
+ 1437  cd terraform
+ 1438  ls
+ 1439  cd ..
+ 1440  cd git
+ 1441  ls
+ 1442  cd tarraform-eks
+ 1443  ls
+ 1444  cd jenkins-server
+ 1445  ls
+ 1446  terraform destroy --auto-approve
+ 1447  cd ..
+ 1448  ls
+ 1449  makdir awscli
+ 1450  mkdir awscil
+ 1451  ls
+ 1452  cd awscli
+ 1453  cd awscil
+ 1454  vi test.pem
+ 1455  ssh -i "test.pem" ubuntu@ec2-34-227-223-11.compute-1.amazonaws.com
+ 1456  ls
+ 1457  chmod +x test.pem
+ 1458  ssh -i "test.pem" ubuntu@ec2-34-227-223-11.compute-1.amazonaws.com
+ 1459  ls
+ 1460  chmod 400 "test.pem"
+ 1461  ssh -i "test.pem" ubuntu@ec2-34-227-223-11.compute-1.amazonaws.com
+ 1462  ls
+ 1463  cd terraform
+ 1464  ls
+ 1465  cd ..
+ 1466  mkdir aws-sm
+ 1467  ls
+ 1468  cd aws-sm
+ 1469  aws configure
+ 1470  git clone https://github.com/gokulsm1197/tarraform-eks.git
+ 1471  ls
+ 1472  cd tarraform-eks
+ 1473  ls
+ 1474  cd jenkins-server
+ 1475  ls
+ 1476  terraform init
+ 1477  terraform plan
+ 1478  terraform apply --auto-approve
+ 1479  ls
+ 1480  vi main.tf
+ 1481  terraform plan
+ 1482  terraform apply --auto-approve
+ 1483  ls
+ 1484  cd jenkins-install.sh
+ 1485  sudo cd jenkins-install.sh
+ 1486  vi jenkins-install.sh
+ 1487  terraform plan
+ 1488  terraform init
+ 1489  terraform plan
+ 1490  terraform apply --auto-approve
+ 1491  help
+ 1492  --help
+ 1493  -help
+ 1494  history

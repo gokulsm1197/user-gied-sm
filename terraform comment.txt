@@ -1,0 +1,9 @@
+aws configure
+
+history
+
+ terraform init
+ terraform validate
+ terraform plan
+ tarraform apply --auto-approl
+terraform destroy --auto-approve

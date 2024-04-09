@@ -1,0 +1,20 @@
+echo "# project-zen" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gokulsm05/project-zen.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/gokulsm05/project-zen.git
+git branch -M main
+git push -u origin main
+
+
+http://52.44.212.179:8080/
+
+
+
+dckr_pat_gW0v0EEm0dzq2zXa1BATJnUtwVk

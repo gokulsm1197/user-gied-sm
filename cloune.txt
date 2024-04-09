@@ -1,0 +1,9 @@
+ssh-keygen
+
+ls ~/.ssh/id_rsa*
+
+resalt [/home/sivathamil/.ssh/id_rsa  /home/sivathamil/.ssh/id_rsa.pub]
+
+selit {cat  /home/sivathamil/.ssh/id_rsa.pub}
+
+and capy key and past ssh key githup

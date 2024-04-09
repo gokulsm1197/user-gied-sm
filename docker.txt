@@ -1,0 +1,45 @@
+sudo apt update -y
+
+sudo apt-get update
+
+sudo apt-get install docker.io -y
+
+sudo systemctl start docker
+
+sudo docker run hello-world
+
+sudo systemctl enable docker
+systemctl status
+
+docker --version
+sudo usermod -a -G docker $USER
+sudo chmod 666 /var/run/docker.sock
+
+docker-compose --version.
+
+docker images
+docker search <image-name>
+docker pull <image-name>
+docker run -it <image-name>
+docker ps
+docker ps -a
+docker ps -a
+docker stop <container-id>
+docker rm <container-id>
+docker rmi <image-name>
+docker-compose up -d
+docker-compose down
+docker exec -it test1 sh
+ docker volume inspect sivathamil_mysiva
+docker stop b0843d85df48
+docker rmi -f b0843d85df48
+sudo apt install docker-compose -y
+sudo docker-compose start
+docker build -t sss:s1
+docker run -d -p 8081:80 --name test1 sss:s1
+vi Dockerfile
+docker restart 9af884387ec8
+
+docker push
+step 1 {docker tag sss:s1 gokulsm/learning-sm:s1}
+step 2 {docker push gokulsm/learning-sm:s1}

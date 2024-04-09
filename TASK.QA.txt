@@ -1,0 +1,39 @@
+"1. Create 20 files with .txt extensions and rename the firt 5 files to .yml extension
+
+1. Create a file with .txt extension (/home/demo.txt). 
+Change the permission set if that file, so that any user can read it, the group can read/write & owner can read/write/execute it.
+
+"1. Get me the IP address of a particular domain (guvi.in) 2. How do I find the CPU/memory usage of my server? 3. Test the connectivity between 2 nodes.
+
+
+1. Do hands on with sample bash scripting
+
+
+Practice if statements with multiple matching conditions.
+
+
+Install docker on EC2 and explore the docker commands (docker images, containers)
+
+Create a custom docker image for nginx and deploy it using docker-compose, where the volume mount should be at /var/opt/nginx location. Push the created custom docker image to your docker hub.
+
+
+Create a simple script file , with some data present it and push it to repo. Now Create a project in Jenkins connected to your GitHub repository. When a commit is made to your repo, automatically build must get triggered from Jenkins and the output must be shared to me via email.
+
+Launch a t2.micro instance in Mumbai region where ssh can be done only from your IP address with docker and docker-compose installed in it.
+
+1. Create a S3 bucket, with no public access and upload files to the bucket 2. Launch two ec2-instances and connect it to a application load balancer, where the output traffic from the server must be an load balancer IP address
+
+Create Repo in CodeCommit & practice CodeBuild & Pipelines.
+
+Write Terraform script to create highly available infrastructure in AWS. The infra should have1 vpc, 3 subnets setup in 3 different az and 2 instances setup in 2 different subnets
+
+Setup minikube at your local and explore creating namespaces (Go through official documentation)
+
+Create the K8s EKS,further you have to do the deployment of Nginx application
+
+Launch an ec2 instance under a default subnet and VPC using terraform template
+
+
+
+
+
